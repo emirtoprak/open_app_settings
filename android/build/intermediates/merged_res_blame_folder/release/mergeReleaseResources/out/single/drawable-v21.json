@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/drawable-v21/notification_action_background.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/drawable-v21/notification_action_background.xml"
+    }
+]

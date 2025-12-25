@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/drawable/notification_bg_low.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/drawable/notification_bg.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/drawable/notification_icon_background.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/drawable/notification_tile_bg.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/drawable/notification_tile_bg.xml"
+    }
+]

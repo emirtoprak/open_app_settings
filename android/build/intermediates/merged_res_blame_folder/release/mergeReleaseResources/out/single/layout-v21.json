@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/layout-v21/notification_action.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.oversketch.open_app_settings-release-23:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.oversketch.open_app_settings-core-1.13.1-12:/layout-v21/notification_template_icon_group.xml"
+    }
+]
